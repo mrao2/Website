@@ -364,7 +364,7 @@ ul{
 
 
 /*Animation*/
-.line-1{
+/* .line-1{
     position: relative;
     top: 50%;  
     width: 24em;
@@ -375,7 +375,7 @@ ul{
     white-space: nowrap;
     overflow: hidden;
     transform: translateY(-50%);    
-}
+} */
 
 /* Animation */
 /* .anim-typewriter{
